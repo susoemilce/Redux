@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Elegir Plataforma CONCHA",
+      "precio": 20,
+      "id": 4
+    },
+    {
+      "nombre": "Suso",
+      "precio": 20,
+      "id": 5
+    },
+    {
+      "nombre": "Lucia",
+      "precio": 20,
+      "id": 6
+    },
+    {
+      "nombre": "Emilce",
+      "precio": 2,
+      "id": 7
+    }
+  ]
+}
